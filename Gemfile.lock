@@ -7,8 +7,8 @@ GIT
 
 GIT
   remote: https://github.com/CocoaPods/Core.git
-  revision: 8c55fdc3e2bacca908c9cf12eff0e64e8ed036f5
-  branch: master
+  revision: 0cd1b93922c5248aaa5b39ea1d8ec46446072694
+  branch: yavuz/imp/localPodLocking
   specs:
     cocoapods-core (1.0.0.beta.2)
       activesupport (>= 4.0.2)
